@@ -1,0 +1,92 @@
+.kitchen {
+  width: 360px;
+  height: 230px;
+  background-color: #125B50;
+  border: 5px solid;
+  position: relative;
+}
+
+div {
+  background-color: white;
+}
+
+.front-wall {
+  left: 30px;
+  width: 330px;
+  height: 60px;
+}
+
+.left-wall {
+  width: 60px;
+  height: 70px;
+  background-color: #4B7BE5;
+  /* transform: rotate(180deg); */
+}
+
+.refrigerator {
+  width: 72px;
+  height: 100px;
+  background-color: yellow;
+}
+
+.door {
+  width: 90px;
+  height: 16px;
+  display: inline-block;
+  position: absolute;
+  top: 214px;
+  left: 72px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.islnad {
+  width: 110px;
+  height: 80px;
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  left: 150px;
+  font-size: 16px;
+  text-align: center;
+  line-height: 2;
+  background-color: #F8B400;
+}
+
+.cabinet {
+  background-color: #FF6FB5;
+  width: 100px;
+  height: 80px;
+  position: absolute;
+  left: 260px;
+  top: 150px;
+  text-align: center;
+}
+
+.gas {
+  width: 60px;
+  height: 60px;
+  background-color: #A85CF9;
+  position: absolute;
+  top: 0;
+  left: 300px;
+  color: white;
+}
+
+.sink {
+  background-color: #F55353;
+  width: 45px;
+  height: 45px;
+}
+
+.sink-milky {
+  position: absolute;
+  bottom: 100px;
+}
+
+.sink-fleshy {
+  top:0;
+  left: 100px;
+  position: absolute;
+
+}
