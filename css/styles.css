@@ -41,12 +41,12 @@ div {
 }
 
 .islnad {
-  width: 110px;
+  width: 200px;
   height: 80px;
   display: inline-block;
   position: absolute;
   top: 150px;
-  left: 150px;
+  left: 160px;
   font-size: 16px;
   text-align: center;
   line-height: 2;
@@ -56,10 +56,10 @@ div {
 .cabinet {
   background-color: #FF6FB5;
   width: 100px;
-  height: 80px;
+  height: 20px;
   position: absolute;
   left: 260px;
-  top: 150px;
+  top: 210px;
   text-align: center;
 }
 
@@ -90,3 +90,4 @@ div {
   position: absolute;
 
 }
+
